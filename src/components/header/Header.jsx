@@ -1,7 +1,7 @@
 import React from 'react'
 import "./header.css"
 import CTA from './CTA'
-import MainIMG from '../../assets/me.png'
+import MainIMG from '../../assets/dan_pic.png'
 import HeaderSocials from './HeaderSocials'
 import {FaArrowCircleRight} from 'react-icons/fa'
 
