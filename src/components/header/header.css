@@ -57,8 +57,11 @@ header {
 }
 
 .img{
-    height: 550px;
-    display: block;
+    /* height: 550px;
+    display: block; */
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
 
 }
 

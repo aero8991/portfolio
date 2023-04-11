@@ -36,7 +36,7 @@ const Experience = () => {
             <ExperienceItems
               icon={<BsPatchCheckFill  className="experience__details-icon"/>}
               skill="Tailwind"
-              exp="Experienced"
+              exp="Intermediate"
             />
             <ExperienceItems
               icon={<BsPatchCheckFill className="experience__details-icon" />}

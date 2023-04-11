@@ -2,6 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import data from "./portfolioData";
 
+
 const Portfolio = () => {
   return (
     <section id="portfolio">
@@ -20,9 +21,9 @@ const Portfolio = () => {
                 <a href={github} target="_blank" className="btn">
                   Github
                 </a>
-                <a href={demo} target="_blank" className="btn btn-primary">
+                {/* <a href={demo} target="_blank" className="btn btn-primary">
                   Dribbble
-                </a>
+                </a> */}
               </div>
             </article>
           );

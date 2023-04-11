@@ -19,17 +19,33 @@ const About = () => {
         </div>
         <div className="about__content">
           <div className="about__cards">
-            <AboutCard icon={<FaAward className="about__icon" />} largeText="Experience" smallText="10+ years working"/>
-            <AboutCard icon={<ImUsers className="about__icon" />} largeText="Clients" smallText="200+ Worldwide"/>
-            <AboutCard icon={<VscFolderLibrary className="about__icon" />} largeText="Projects" smallText="80+ projects"/>
+            <AboutCard
+              icon={<FaAward className="about__icon" />}
+              largeText="Experience"
+              smallText="10+ years working"
+            />
+            <AboutCard
+              icon={<ImUsers className="about__icon" />}
+              largeText="Clients"
+              smallText="200+ Worldwide"
+            />
+            <AboutCard
+              icon={<VscFolderLibrary className="about__icon" />}
+              largeText="Projects"
+              smallText="40+ projects"
+            />
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea quidem
-            cumque quaerat nesciunt labore, minus neque, magnam iure officiis
-            sint perferendis aspernatur molestiae doloremque molestias nulla
-            quam sapiente enim consequatur!
+            I’m a passionate professional with 10+ years of broad front end and back end analytical
+            experience including Python programming, data analytics, process
+            improvements, machine learning/ AI and predictive forecasting. I’m a
+            seasoned analyst seeking to leverage my strong analytical
+            experiences, leadership skills and efficiency improvement ideas to
+            increase profitability.
           </p>
-          <a href="#contact" className="btn btn-primary chat-btn">Let's Chat</a>
+          <a href="#contact" className="btn btn-primary chat-btn">
+            Let's Chat
+          </a>
         </div>
       </div>
     </section>
