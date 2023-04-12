@@ -5,6 +5,7 @@ import { FaAward } from "react-icons/fa";
 import { ImUsers } from "react-icons/im";
 import { VscFolderLibrary } from "react-icons/vsc";
 import AboutCard from "./AboutCard";
+import working from "../../assets/working1.png"
 
 const About = () => {
   return (
@@ -14,7 +15,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={picture} alt="image" />
+            <img src={working} alt="image" className="image" />
           </div>
         </div>
         <div className="about__content">
