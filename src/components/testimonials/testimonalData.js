@@ -5,19 +5,19 @@ import avatar3 from "../../assets/avatar3.jpg";
 const data = [
   {
     avatar: avatar1,
-    name: "Big Baller",
+    name: "Allison",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi laboriosam, accusantium esse eaque labore veritatis nostrumducimus dolorem inventore quasi, quo optio consectetur quaspossimus obcaecati ea expedita omnis facilis.",
   },
   {
     avatar: avatar4,
-    name: "Amazing Al",
+    name: "Nikki",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi laboriosam, accusantium esse eaque labore veritatis nostrumducimus dolorem inventore quasi, quo optio consectetur quaspossimus obcaecati ea expedita omnis facilis.",
   },
   {
     avatar: avatar3,
-    name: "Friendly Fran",
+    name: "Cole",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi laboriosam, accusantium esse eaque labore veritatis nostrumducimus dolorem inventore quasi, quo optio consectetur quaspossimus obcaecati ea expedita omnis facilis.",
   },
